@@ -1,0 +1,9 @@
+lxml==4.3.0
+numpy==1.16.0
+tqdm==4.29.1
+opencv-python
+pafy
+youtube_dl
+requests
+bs4
+selenium
