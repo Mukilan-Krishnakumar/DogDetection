@@ -1,0 +1,6 @@
+train: custom_dataset/train/
+val: custom_dataset/val/
+
+# Classes
+nc: 4  # number of classes
+names: ['dachshund','beagle','doberman','unidentified_dog']  # class names
